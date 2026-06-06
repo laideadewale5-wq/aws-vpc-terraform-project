@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.pem
+aws-vpc-key
+terraform.tfvars
+.DS_Store
